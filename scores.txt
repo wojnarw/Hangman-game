@@ -1,0 +1,18 @@
+Ala;5.61;LISBON;5
+very long long name;6.08;WARSAW;12
+Anonymous;9.04;VIENNA;1
+Anonymous;9.78;BUDAPEST;1
+Anonymous;12.22;BELGRAD;1
+kk;13.53;MONACO;1
+Anonymous;15.80;PRAGUE;1
+Anonymous;16.23;PARIS;3
+mmmmmmmmmmmmmmm;17.70;ATHENS;4
+Kot;22.88;KARTON;1
+Kot sąsiada;32.08;KARTON;1
+op;32.30;BELGRAD;10
+fewref;35.37;BUDAPEST;1
+my name;46.51;BERLIN;6
+Kot znad rzeki;47.58;KARTON;1
+rom;48.91;VIENNA;10
+woj;59.35;WARSAW;9
+Mentor znad rzeki;9000.01;PRAGA;7
